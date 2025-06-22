@@ -62,7 +62,6 @@ venv.bak/
 *.npy
 
 # Plot output (comment these out if you want to track example plots)
-*.png
 *.jpg
 *.pdf
 
