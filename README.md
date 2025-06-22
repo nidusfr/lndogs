@@ -26,6 +26,7 @@ This Python tool performs deconvolution of grain-size distributions by fitting a
 1. Clone the repository:
    ```bash
    git clone https://github.com/nidusfr/lndogs.git
+   cd lndogs
    ```
 
 2. Install dependencies:
